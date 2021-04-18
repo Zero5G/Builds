@@ -1,0 +1,22 @@
+sponge = loot chest
+wet sponge = block that will dissapear
+birch signs = what should happen
+
+
+corridor_1_chunk = random room - I think that the gravel block should turn to silverfish, but idc
+
+corridor_1_chunk_type_2 = intersection (rooms) - there is one loot chest there
+
+corridor_1_chunk_type_3 = meeting room - there is one loot chest there, maybe a boss could spawn?
+
+corridor_1_chunk_type_4 = prison - when player comes down the stairs will get blocked of
+					and one of the player heads will turn into a boss
+					after that the way out will open and the secret way will open too
+					(aka wet sponges will dissapear)
+
+corridor_1_chunk_type_5 = the attic - the is one loot chest location there, 
+					and I think a ghost miniboss should spawn in the attic
+
+
+
+

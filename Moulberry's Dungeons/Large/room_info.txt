@@ -1,0 +1,8 @@
+sponge = loot chest
+wet sponge = block change
+birch signs = what should happen
+
+high_corridor_2_chunks.schem - spiders den = room with spiders and some loot chests
+
+high_corridor_2_chunks_type_2.schem - hallway = chests or guardion miniboss(I would suggest an iron golem)
+						with guards

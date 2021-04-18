@@ -1,0 +1,11 @@
+sponge = loot chest
+wet sponge = block change
+birch signs = what should happen
+
+corner_type_1 - fall though the floor, miniboss spawns,
+			once the bot is dead vines will grow and allow you to leave
+
+corner_type_2 = treasure room - room closes behind you, mini boss spawns, 
+				once killed chest with treasure will open
+
+corner_type_3 = storage - just some loot chests and mobs
